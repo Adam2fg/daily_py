@@ -5,3 +5,7 @@ To make things more intresting, I am going to exclusively write and push every c
 To prove to myself that I can solve problems from anywhere with any device and to also make sure I don't forget my fundamental training.
 
 Here goes nothing..
+
+## Projects:
+
+Day 1: Simple Calculator
