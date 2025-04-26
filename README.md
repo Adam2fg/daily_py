@@ -9,3 +9,4 @@ Here goes nothing..
 ## Projects:
 
 Day 1: Simple Calculator
+Day 2: Handwritten Digit Recognition with CNN
